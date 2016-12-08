@@ -13,3 +13,5 @@ function printPattern defined in line 37
 3. CMSSW_7_0_9/src/EventFilter/CSCRawToDigi/plugins/CSCDCCUnpacker.cc
 
 run function printPattern in line 445
+
+4. correponding modifications under CMSSW_8_0_19 are implemented
